@@ -1,8 +1,8 @@
 PROJECT TITLE: SURVEY CREATOR
 
 DESCRIPTION:
-THIS PROJECT IS A GROUP PROJECT
-It is a survey creator website where a person can create and take surveys. 
+This project is a group project.
+It is a survey creator website and has some authentication where a person can sign up and login and further they can create and/or take surveys. 
 
 TECHNOLOGIES USED:
 
